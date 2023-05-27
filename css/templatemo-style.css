@@ -43,7 +43,9 @@ h2 {
 .highlight {
     color: #99FF66;
 }
-
+#First_PART{
+    justify-content:space-around
+}
 .page-container {
     display: flex;
     flex-direction: column;
@@ -51,6 +53,10 @@ h2 {
     padding-left: 30px;
     padding-right: 30px;
 }
+#data-pages{
+    padding-bottom: 10%;
+}
+
 
 .container-fluid {
     max-width: 1860px;
